@@ -1,0 +1,6 @@
+1. Creo archivo en Subcarpeta1.
+2. Hago git add de la Subcarpeta1.
+3. Muevo con el explorer de la Subcarpeta1 al raíz.
+4. Vuelvo a hacer git add de la Subcarpeta1.
+5. Hago commit.
+6. Hago push.

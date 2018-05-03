@@ -1,5 +1,0 @@
-Primero se graba en raíz.
-Luego se hará el add al stage.
-Luego se moverá a Subcarpeta1.
-Luego se hará el add al stage.
-Y por último se hará el commit.
