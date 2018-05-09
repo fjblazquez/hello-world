@@ -1,0 +1,2 @@
+Archivo creado_en_wip-pruebas-varias.txt
+Para realizar luego 'pull request' y luego 'merge'
